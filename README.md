@@ -19,9 +19,9 @@
 在`LSTM`目录下。
 
 # kakawanyifan.com
-2020年月，写博客。
+2020年7月，写博客。
 
-> 深度学习入门及其Python实现：⒊TensorFlow的实践【T2待完善】
+> 深度学习入门及其Python实现：⒊TensorFlow的实践
 > https://kakawanyifan.com/10403/
 
 以这个比赛为例，新增了部分代码。在`kakawanyifan.com`目录下。
